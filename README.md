@@ -7,17 +7,13 @@ I'm [Your Name], a passionate software engineer from Morocco. I enjoy working wi
 - 👯 I’m looking to collaborate on **open-source projects** related to web development and cloud computing.
 - 🤔 I’m looking for help with **optimizing performance** in large-scale **React** applications.
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, or any other tech-related topics!
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile)
+- 📫 How to reach me: [Your Email](mailto:badrkhorchef@gmail.com) | [LinkedIn](https://www.linkedin.com/in/badr-khorchef)
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
 ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-## My Projects
 
-- [Productivity App](https://github.com/your-username/productivity-app): An app designed to help users manage their tasks efficiently using a beautiful and intuitive interface.
-- [E-commerce Platform](https://github.com/your-username/e-commerce-platform): A full-featured e-commerce platform built with **React**, **Node.js**, and **MongoDB**.
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/BIKhorchef)
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
-
-<img src="https://your-image-url.gif" width="30px">
+<img src="https://avatars.githubusercontent.com/u/102677068?v=4" width="30px">
