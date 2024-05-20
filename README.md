@@ -10,8 +10,8 @@ I'm BADR, a passionate software engineer from Morocco. I enjoy working with new 
 - 📫 How to reach me: [Email](mailto:badrkhorchef@gmail.com) | [LinkedIn](https://www.linkedin.com/in/badr-khorchef)
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub followers](https://img.shields.io/github/followers/BIKhorchef?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/BIKhorchef?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BIKhorchef&show_icons=true&theme=radical)](https://github.com/BIKhorchef)
