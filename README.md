@@ -14,6 +14,6 @@ I'm [Your Name], a passionate software engineer from Morocco. I enjoy working wi
 ![GitHub User's stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/BIKhorchef)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BIKhorchef&show_icons=true&theme=radical)](https://github.com/BIKhorchef)
 
 <img src="https://avatars.githubusercontent.com/u/102677068?v=4" width="30px">
